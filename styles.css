@@ -1,0 +1,239 @@
+#title{
+
+     background-color: #ff4c68; 
+     position: relative;
+     z-index: -1;
+     padding:-20px;
+
+}
+.font{
+
+    font-family: 'Montserrat-Black';
+     font-family: 'Ubuntu';
+    line-height: 1.5; 
+    font-size: 3.5rem;
+    font-weight: 700;
+    color: white;
+    padding-top: 15%;
+
+
+}
+
+.container{
+
+   padding-top: 3%;
+   padding-right: 15%;
+   padding-right: 15%;
+   padding-bottom: 3%;
+
+}
+
+.navbar-brand{
+
+
+    font-weight: 700;
+     font-size: 2.25rem;
+     padding: 0 0 4.5rem;
+    
+}
+
+.butt{
+
+    padding-top: 5%;
+    height: 30%;
+
+}
+
+.butt1{
+
+    margin-right: 2%;
+
+}
+
+.iphone{
+
+    height: 170%;
+    margin-top: 10%;
+    margin-left: 20%;
+    z-index: -1;
+    position: absolute;
+    transform: rotate(30deg);
+
+
+}
+
+.nav-item{
+
+    padding: 0 18px;
+
+}
+
+.nav-link{
+
+    font-size: 1.2rem;
+    font-family: "Montserrat-Light";
+
+
+}
+
+.navbar{
+
+    padding: 0 0 4.5rem;
+    margin-bottom: 10px;
+
+    
+}
+
+
+
+#features{
+
+    padding: 7% 15%;
+    text-align: center;
+    position: relative;
+    z-index: 1;
+    background-color: white;
+ 
+
+
+}
+
+.feature-box{
+
+    padding: 5%;
+
+}
+
+h3{
+
+
+    font-family: "Montserrat-Black";
+
+
+}
+
+p{
+
+    color:#8f8f8f;
+}
+
+.sum{
+
+    display: inline-block;
+     
+    
+
+}
+
+#testimonials{
+
+    text-align: center;
+    background-color: #ef8172;
+    color: #fff;
+
+}
+
+.no{
+
+  
+    
+    font-family: 'Montserrat-Black';
+     font-family: 'Ubuntu';
+    line-height: 1.5; 
+    font-size: 3.5rem;
+    font-weight: 700;
+    color: white;
+    
+
+}
+
+.testimg{
+
+
+    display: inline-block;
+   width: 10%;
+   border-radius: 100%;
+   text-align: center;
+   margin-top: 2%;
+   
+
+
+}
+
+#press{
+
+
+    text-align: center;
+    background-color: #ef8172;
+    padding-bottom: 3%;
+
+
+}
+
+.press-logo{
+
+    width: 15%;
+    margin: 20px 20px 50px;
+
+}
+
+.carousel-item{
+
+    padding: 7% 15%;
+
+
+}
+
+@media (max-width:1028px){
+
+.iphone{
+
+
+    position: static;
+    height: 500px;
+    transform: rotate(0deg);
+    text-align: center;
+
+
+
+}
+
+#title{
+
+
+    text-align: center;
+
+
+}
+
+
+
+}
+
+.hello{
+
+font-family: 'Montserrat-Black';
+font-family: 'Ubuntu';
+line-height: 1.5; 
+font-size: 3.5rem;
+font-weight: 700;
+color: white;
+padding-top: 2%;
+
+}
+
+#footer{
+
+    text-align: center;
+    margin-top: 200px;
+    margin-bottom: 100px;
+
+
+
+}
+
+#cta{
+
+    text-align: center;
+
+}
